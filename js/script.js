@@ -55,7 +55,7 @@ function hitung(e) {
             } else if (bmi >= 18.5 && bmi < 25 ) { 
                 e.preventDefault();
                 bg = "#84b284";
-                kat = "Berat Badan Ideal";
+                kat = "Berat Badan Ideal ";
                 saran = "Anda berada dalam kategori berat badan ideal";                  
             } else if (bmi >= 25 && bmi < 30 ) {
                 e.preventDefault();
