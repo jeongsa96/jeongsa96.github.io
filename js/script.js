@@ -56,11 +56,11 @@ function hitung(e) {
                 e.preventDefault();
                 bg = "#84b284";
                 kat = "Berat Badan Ideal";
-                saran = "Anda berada dalam kategori dsada berat badan ideal";                  
+                saran = "Anda berada dalam kategori berat badan ideal bagus";                  
             } else if (bmi >= 25 && bmi < 30 ) {
                 e.preventDefault();
                 bg = "#f5c139";
-                kat = "Kelebihan Berat Badanl";
+                kat = "Kelebihan Berat Badan";
                 saran = "Anda berada dalam kategori kelebihan berat badan";                  
             } else {
                 e.preventDefault();
