@@ -13,7 +13,8 @@ main {
     background-color: aliceblue;
     padding: 8px;
     border: 10px;
-    width: 100%;
+    border-radius: 6px;
+    width: 100%;    
 }
 
 input[type=text], select {
