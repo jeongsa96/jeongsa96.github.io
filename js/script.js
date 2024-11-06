@@ -56,7 +56,7 @@ function hitung(e) {
                 e.preventDefault();
                 bg = "#84b284";
                 kat = "Berat Badan Ideal";
-                saran = "Anda berada dalam kategori berat badan ideal bagus";                  
+                saran = "Anda berada dalam kategori berat badan ideal";                  
             } else if (bmi >= 25 && bmi < 30 ) {
                 e.preventDefault();
                 bg = "#f5c139";
